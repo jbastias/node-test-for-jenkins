@@ -1,0 +1,28 @@
+{
+  "name": "node-test-for-jenkins",
+  "version": "1.0.0",
+  "description": "express hello world app with testing for Jenkin POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbastias/node-test-for-jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbastias/node-test-for-jenkins/issues"
+  },
+  "homepage": "https://github.com/jbastias/node-test-for-jenkins#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2",
+    "should": "^11.2.1",
+    "supertest": "^3.0.0"
+  }
+}
