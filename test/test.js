@@ -23,4 +23,18 @@ describe("SAMPLE unit test",function(){
     });
   });
 
+  // #1 should return home page
+  it("should say hello to my little friend",function(done){
+    // calling home page
+    server
+    .get("/little-friend/newman")
+    .expect("Content-type",/text/)
+    .expect(200) // THis is HTTP response
+    .end(function(err,res){
+      // HTTP status should be 200
+      res.text.should.equal('say hello to my little friend: newman :).');
+      done();
+    });
+  });
+
 });
