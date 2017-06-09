@@ -16,5 +16,5 @@ mocha
 
 - [Jenkins on AWS](https://www.youtube.com/watch?v=zEQUuo5nWbo)
 - [Jenkins for node](https://codeforgeek.com/2016/04/continuous-integration-deployment-jenkins-node-js/)
-- [strongloog node/jenkins part2](https://strongloop.com/strongblog/roll-your-own-node-js-ci-server-with-jenkins-part-1/)
-- [strongloog node/jenkins part2](https://strongloop.com/strongblog/roll-your-own-node-js-ci-server-with-jenkins-part-2/)
+- [strongloop node/jenkins part2](https://strongloop.com/strongblog/roll-your-own-node-js-ci-server-with-jenkins-part-1/)
+- [strongloop node/jenkins part2](https://strongloop.com/strongblog/roll-your-own-node-js-ci-server-with-jenkins-part-2/)
