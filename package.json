@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jbastias/node-test-for-jenkins#readme",
   "dependencies": {
+    "@slidebean/core": "0.0.62",
     "express": "^4.15.3"
   },
   "devDependencies": {
